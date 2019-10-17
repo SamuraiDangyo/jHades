@@ -24,8 +24,8 @@ var jHades = {
 	// Constants
 	//
 	
-	NAME:    "jHades.js",
-	VERSION: "0.2",
+	NAME:    "jHades",
+	VERSION: "0.21",
 	
 	POUND:  +2.20462262, // kg
 	FEET:   +0.3048,     // meters
